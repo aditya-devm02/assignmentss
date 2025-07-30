@@ -1,6 +1,6 @@
-# Full-Stack Assignment
+#  Assignment
 
-A full-stack web application built with Django (backend) and Vue.js (frontend).
+
 
 ## 🚀 Project Structure
 
